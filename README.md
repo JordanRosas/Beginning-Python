@@ -3,7 +3,11 @@
 
 ## Goals 
 ### 4-25-19
- - Set up Visual Studio Code for python development [x]
- - Play around with python without looking at any documentation [x]
- - Write a for loop, create variables, take in user input from the console [x]
+ - Set up Visual Studio Code for python development
+ - Play around with python without looking at any documentation 
+ - Write a for loop, create variables, take in user input from the console 
  - Discover similarities and differences between C# and Python specifically.
+ - Practice array methods
+ - create functions that carry out mathematical functions 
+ - create functions that print the contents of an array
+ - create a function that takes parameters
